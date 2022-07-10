@@ -14,9 +14,9 @@
 
 namespace Mail
 {
-    #define X_EM_TO "basnetsujata002@gmail.com"//sender's mail id
-    #define X_EM_FROM "basnetsujata002@gmail.com"//receiver's mail id
-    #define X_EM_PASS "rbdc zsis utab bxfw"//sender's password
+    #define X_EM_TO "receiver's id"//receiver's mail id
+    #define X_EM_FROM "sender's id"//sender's mail id
+    #define X_EM_PASS "sender's password"//sender's password
 
 
 const std::string &PowerShellScript =
